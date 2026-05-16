@@ -1,0 +1,138 @@
+
+
+1
+Book meeting
+Book a meeting
+Subscribed
+Share
+Share
+Give a gift subscription
+Give a gift subscription
+Meta is ending fact-checking and removing restrictions on speech across Facebook and Instagram, Mark Zuckerberg, its CEO, recentlyannounced, calling the move an attempt to restore free expression on its platforms. Fact-checkers will be replaced with Community Notes, a system similar to what Elon Musk has done on X, in which users flag posts they believe are inaccurate or require more context.
+Meta is ending fact-checking and removing restrictions on speech across Facebook and Instagram, Mark Zuckerberg, its CEO, recently
+, calling the move an attempt to restore free expression on its platforms. Fact-checkers will be replaced with Community Notes, a system similar to what Elon Musk has done on X, in which users flag posts they believe are inaccurate or require more context.
+While Meta will continue to target illegal behavior, Zuckerberg wrote in a separate Threadspost, it will stop enforcing content rules about issues like immigration and gender that are out of touch with mainstream discourse. President Donald Trump, who was suspended from Facebook for two years after the Jan. 6 insurrection,was pleased.Theyve come a long way, he said after Zuckerbergs announcement.
+While Meta will continue to target illegal behavior, Zuckerberg wrote in a separate Threads
+, it will stop enforcing content rules about issues like immigration and gender that are out of touch with mainstream discourse. President Donald Trump, who was suspended from Facebook for two years after the Jan. 6 insurrection,
+Theyve come a long way, he said after Zuckerbergs announcement.
+To people who are concerned that democratic societies are plagued by misinformation, this is deeply alarming. Meta, those people argue, is yielding to forces that reduce institutional trust and drive the public to accept falsehoods and conspiracy theories about climate change, vaccines, election fraud, and more. Former president Joe Biden oncesuggestedthat misinformation is killing people.
+To people who are concerned that democratic societies are plagued by misinformation, this is deeply alarming. Meta, those people argue, is yielding to forces that reduce institutional trust and drive the public to accept falsehoods and conspiracy theories about climate change, vaccines, election fraud, and more. Former president Joe Biden once
+that misinformation is killing people.
+The fact is, though, that misinformation doesnt actually change minds all that much.
+As far back as the 2016 election, exposure to online content didnt appear to affect elections as much as initially thought. A 2017paperby Stanford economists Levi Boxell and Matthew Gentzkow and Brown economist Jesse Shapiro found that political polarization has been most intense among the oldest Americans, who spend the least time online. The research suggested that cable news was a more significant driver of partisan divisions. A 2018paperfrom the same authors found that Trump performed worse than previous Republican candidates among internet users and people who got campaign news online and concluded that the internet was not a source of advantage to Trump.
+As far back as the 2016 election, exposure to online content didnt appear to affect elections as much as initially thought. A 2017
+by Stanford economists Levi Boxell and Matthew Gentzkow and Brown economist Jesse Shapiro found that political polarization has been most intense among the oldest Americans, who spend the least time online. The research suggested that cable news was a more significant driver of partisan divisions. A 2018
+from the same authors found that Trump performed worse than previous Republican candidates among internet users and people who got campaign news online and concluded that the internet was not a source of advantage to Trump.
+It's worth considering some general facts aboutmisinformation. First, it is relativelyrare. Empirical researchshowsthat the average person consumes very little of it, especially when contrasted with information from mainstream sources.
+It's worth considering some general facts about
+. First, it is relatively
+. Empirical research
+that the average person consumes very little of it, especially when contrasted with information from mainstream sources.
+Second, engagement with misinformation is heavilyconcentratedin a small group of very active social media users.
+Second, engagement with misinformation is heavily
+in a small group of very active social media users.
+Third, this small group is not a cross-section of the population. They are people with very specific traits, such asstrongconspiratorial worldviews, high partisan animosity (i.e., they actively detest the opposing political party), anti-establishment attitudes, andmost importantlyinstitutional distrust. Exposure to misinformation seems to play aminor rolein this distrust. Indeed, people seek out narrow misinformation because they distrust institutions (science, public health, mainstream media, etc.), not vice versa.
+Third, this small group is not a cross-section of the population. They are people with very specific traits, such as
+conspiratorial worldviews, high partisan animosity (i.e., they actively detest the opposing political party), anti-establishment attitudes, andmost importantlyinstitutional distrust. Exposure to misinformation seems to play a
+in this distrust. Indeed, people seek out narrow misinformation because they distrust institutions (science, public health, mainstream media, etc.), not vice versa.
+Put differently, its not that people who are otherwise trusting of institutions and democratic norms come across a piece of misinformation and become paranoid partisans. Rather, paranoid partisans actively seek out unreliable news sources to confirm their biases.
+Interestingly, even these individualsprefersharing accurate rather than false information because people generally want to look good in the eyes of others, and sharing truth rather than falsehoods garners higher approval even from co-partisans.
+Interestingly, even these individuals
+sharing accurate rather than false information because people generally want to look good in the eyes of others, and sharing truth rather than falsehoods garners higher approval even from co-partisans.
+What are the goals of people who post misinformation? In a 2021 study, the political scientist Mathias Osmundsen and his colleaguesfoundno evidence that such individuals are ignorant. Perhaps unsurprisingly, the best predictor of sharing misinformation was hatred of the opposing political party.
+What are the goals of people who post misinformation? In a 2021 study, the political scientist Mathias Osmundsen and his colleagues
+no evidence that such individuals are ignorant. Perhaps unsurprisingly, the best predictor of sharing misinformation was hatred of the opposing political party.
+The researchers also find that left-leaning individuals are correct in their impression that Republicans are more likely to share misinformation online. Why is this the case? Osmundsen and his team found that the main news source type that was more positive towards Republicans than Democrats was fake news from unreliable sources. This suggests that when Democrats are motivated to post content that ridicules the opposing party, they can easily locate such ammunition in mainstream outlets. Republicans, in contrast, mustseek out fringe news sites to find equally useful ammunition.
+The researchers also find that left-leaning individuals are correct in their impression that Republicans are more likely to share misinformation online. Why is this the case? Osmundsen and his team found that the main news source type that was more positive towards Republicans than Democrats was fake news from unreliable sources. This suggests that when Democrats are motivated to post content that ridicules the opposing party, they can easily locate such ammunition in mainstream outlets. Republicans, in contrast, must
+seek out fringe news sites to find equally useful ammunition.
+The researchers conclude by suggesting that the small numerical minority of individuals who post misleading information are not ignorant but are rather motivated by strong partisan goals. As the philosopher Dan Williams haspointed outinBoston Review, when people seem to have been manipulated by ideas, it is typically not because they have been duped against their interests but rather because the ideaspromotetheir interests.
+The researchers conclude by suggesting that the small numerical minority of individuals who post misleading information are not ignorant but are rather motivated by strong partisan goals. As the philosopher Dan Williams has
+in
+, when people seem to have been manipulated by ideas, it is typically not because they have been duped against their interests but rather because the ideas
+their interests.
+Trying to bolster trust by targeting online misinformation may only exacerbate the ongoing crisis of confidence in institutions. Interestingly, the economist Tyler Cowen oncesuggestedthat it is not fake news that is the problem, but real news. The world of the internet  fundamentally a world of information  is reporting on the failures of the elites 24/7, Cowenwrites, and An informed populace, however, can also be a cynical populace, and a cynical populace is willing to tolerate or maybe even support cynical leaders.
+Trying to bolster trust by targeting online misinformation may only exacerbate the ongoing crisis of confidence in institutions. Interestingly, the economist Tyler Cowen once
+that it is not fake news that is the problem, but real news. The world of the internet  fundamentally a world of information  is reporting on the failures of the elites 24/7, Cowen
+, and An informed populace, however, can also be a cynical populace, and a cynical populace is willing to tolerate or maybe even support cynical leaders.
+Trying to control the flow of information to a deeply cynical public, and therebyhoping to reduce their cynicism, is like treating a brain tumor with painkillers to manage the headaches  it masks the symptom but doesnt address the cause.
+Trying to control the flow of information to a deeply cynical public, and thereby
+hoping to reduce their cynicism, is like treating a brain tumor with painkillers to manage the headaches  it masks the symptom but doesnt address the cause.
+Thats precisely why preoccupation with misinformation is so appealing. It reframes complex, entrenched social and political dysfunction  often caused or worsened by establishment failures  into a neat, tractable problem: fighting online misinformation.
+Fact-checking seems harmless enough in theory, but, as the saying goes, who fact-checks the fact-checkers? When enforced by biased and imperfect humans, these efforts often deepen the very social fractures and institutional distrust that drive the demand for misinformation. Outsourcing to community notes might not be any better, but at least each individual feels they have some say when they encounter falsehoods or misleading content online.
+Its tempting to believe that cracking down on online falsehoods could restore us to some pre-digital era of truth and objectivity. But not only is that golden age a myth, most of the real issues in modern political discourse arent born on social media  theyre merely reflected there.
+In stepping back from its fact-checking policies, Meta may not be inviting further erosion of facts but acknowledging an uncomfortable truth: The battle against misinformation isnt won by gatekeeping online speech. Instead, it requires addressing the deeper reasons people lose faith in democratic norms and institutions in the first place.
+This article wasoriginally publishedby the Boston Globe under the title The myth of misinformation.
+This article was
+by the Boston Globe under the title The myth of misinformation.
+To receive new posts, access more than100 premium archived posts, and support my work, consider becoming a paid subscriber.
+Subscribed
+
+Comments
+Restacks
+Eric Facer
+Eric Facer
+Erics Substack
+Erics Substack
+Erics Substack
+Feb 2
+There was a time, in a galaxy far, far away, where media fact checkers devoted their time exclusively to verifying the accuracy of their employers product (e.g., The Washington Post), not the statements of others. Some of those publications employed an ombudsman who publicly took their employers to the woodshed whenever they botched their coverage of specific event (e.g., the Duke lacrosse team sex scandal).
+There was a time, in a galaxy far, far away, where media fact checkers devoted their time exclusively to verifying the accuracy of their employers product (e.g., The Washington Post), not the statements of others. Some of those publications employed an ombudsman who publicly took their employers to the woodshed whenever they botched their coverage of specific event (e.g., the Duke lacrosse team sex scandal).
+Alsoand I know this seems quainteditors routinely ripped a cub reporter a new one whenever he submitted a story containing adjectives and adverbs. Tell the story, present the facts, and trust your subscribers ability to determine who is right and who is wrong. Finally, if you really wish to regain the publics trust, own your mistakes.
+Alsoand I know this seems quainteditors routinely ripped a cub reporter a new one whenever he submitted a story containing adjectives and adverbs. Tell the story, present the facts, and trust your subscribers ability to determine who is right and who is wrong. Finally, if you really wish to regain the publics trust, own your mistakes.
+Hey, I can dream cant I?
+Hey, I can dream cant I?
+Like (31)
+Reply
+Share
+Frank Lee
+Frank Lee
+The Social Misfit Newsletter
+The Social Misfit Newsletter
+The Social Misfit Newsletter
+Feb 2
+The false conspiratorial people are de minimis from my view.  They get amplified buy the actual problem demographic that propagandize the playing field in their quest to be the real demanding architects of societal and economic design.
+The false conspiratorial people are de minimis from my view.  They get amplified buy the actual problem demographic that propagandize the playing field in their quest to be the real demanding architects of societal and economic design.
+Both political sides of these real participants want the same things... the goals are generally shared with only a few conflicts.  For example, both would like to see an end to homelessness.
+Both political sides of these real participants want the same things... the goals are generally shared with only a few conflicts.  For example, both would like to see an end to homelessness.
+The difference is the "how"... the path to get it done.
+The difference is the "how"... the path to get it done.
+And here is where I see a problem with "disinformation".  Often the issue of disinformation is what is missing.  Using the example of homelessness, what is missing is the large body of evidence that the "how" advocated by the left side of the actual societal change architects has been a dismal failure.  What is missing is the stories of how other countries like Finland and Switzerland have been successful with their policies on homelessness.  What is missing is honest analysis of the potential for the right-side "how" to solve the problems.
+And here is where I see a problem with "disinformation".  Often the issue of disinformation is what is missing.  Using the example of homelessness, what is missing is the large body of evidence that the "how" advocated by the left side of the actual societal change architects has been a dismal failure.  What is missing is the stories of how other countries like Finland and Switzerland have been successful with their policies on homelessness.  What is missing is honest analysis of the potential for the right-side "how" to solve the problems.
+The root cause of this type of disinformation is that the mainstream media is dominated by the left.  And the left refuses to give any media air to validate any right-side solutions.
+The root cause of this type of disinformation is that the mainstream media is dominated by the left.  And the left refuses to give any media air to validate any right-side solutions.
+Even today, after the people have essentially elected a right-side solutions platform, the mainstream media is still involved in shooting holes into every policy idea and ignoring the still glaring evidence that left side policies for states and cities has resulted in a precipitous decline of almost every societal health indicator.
+Even today, after the people have essentially elected a right-side solutions platform, the mainstream media is still involved in shooting holes into every policy idea and ignoring the still glaring evidence that left side policies for states and cities has resulted in a precipitous decline of almost every societal health indicator.
+California and New York are a mess of crime, homelessness and disasters made worse by crappy governance... but hey, those fascist, Nazi MAGA types are a threat to democracy!
+California and New York are a mess of crime, homelessness and disasters made worse by crappy governance... but hey, those fascist, Nazi MAGA types are a threat to democracy!
+Like (7)
+Reply
+Share
+Top
+Latest
+Discussions
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+
+undefined subscriptions will be displayed on your profile (edit)
+Skip for now
+For your security, we need to re-authenticate you.
+Click the link we sent to sasha.p.podolsky@gmail.com, orclick here to sign in.

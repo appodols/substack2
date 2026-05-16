@@ -1,0 +1,120 @@
+
+
+1
+Book meeting
+Book a meeting
+Subscribed
+Share
+Share
+Give a gift subscription
+Give a gift subscription
+Below are my highlights, notes, and reactions to the second installment of Jordanscourseon personality psychology titled The Five Factor Model: An Empirical Approach to Personality.
+Below are my highlights, notes, and reactions to the second installment of Jordans
+on personality psychology titled The Five Factor Model: An Empirical Approach to Personality.
+You can find my notes on the first lecturehere.
+You can find my notes on the first lecture
+.
+[In square brackets are thoughts/notes I jotted while listening]:
+Jordan opens by telling the story of how he became interested in psychometrics, or the field of study concerned with the measurement of psychological variables (e.g., intelligence, personality, etc.)
+After finishing a PhD and a postdoctoral program at McGill in Canada, Jordan got a job as a junior professor at Harvard. Jordan notes that he wasnt making much money in this job.
+[Academia is a job that, especially for young researchers, pays higher in prestige than it does in actual money. Something like plumbing would be the reverse. I discuss the status/money tradeoff inthis post.]
+[Academia is a job that, especially for young researchers, pays higher in prestige than it does in actual money. Something like plumbing would be the reverse. I discuss the status/money tradeoff in
+.]
+Jordan describes teaching extra classes to earn extra money, and struggling to make ends meet for his family. So he called his dean asking how he was supposed to do research with such a large teaching load. His dean replied that most of the Harvard faculty do consulting as a side gig to supplement their income.
+[Fortunately by my second or third year of my doctoral program, Id spoken with enough people and read and learned enough about academia to understand that teaching extra classes, which pays very little, was the wrong way to go about earning extra income. I earned way more on my fledgling newsletter which was still hosted on MailChimp than I would have from being a TA or teaching courses. I also did some consulting work for advertising firms.]
+Trying to develop something that would appeal to potential consulting clients, Jordan and one of his graduate students devised a test to measure personality as it relates to performance and behavior in the workplace. This was the origin of Jordans interest in psychometrics.
+[If Im not mistaken, this was the precursor to Jordans current personality test which he and his team have put online. Ive shared my results from this testhere.]
+[If Im not mistaken, this was the precursor to Jordans current personality test which he and his team have put online. Ive shared my results from this test
+.]
+Performance among human beings is not normally distributed. Many things are normally distributed among humans, including height and intelligence. But this isnt true for everything. Its not true for creative achievement, productivity, or the distribution of material goods. These follow a power law, or a Pareto distribution.
+A small proportion of employees in any organization are responsible for almost all of the value produced.
+[Relatedly, this reminds me of a finding that among people who launch a podcast, only 5% manage to produce at least 20 episodes. So if you produce 20 podcast episodes, youre already in the top 5% of all podcasters. My guess is a similar statistic would be found for newsletter writers and Substackers. A small number of people produce the overwhelming majority of the content. Tweets follow the same pattern. Ten percent of Twitter users produce 80% of all tweets.]
+Jordan discusses how the Big Five personality traits were identified and discovered. They were discovered by what he calls brute force empiricism.
+[What he means is that at the outset, regarding the Big Five personality traits, there was no overarching theory that would predict in advance what they would be. The pioneers of the Big Five used statistical methods to identify the traits without predicting or speculating in advance what to expect.]
+One approach early researchers used to identify personality traits was to examine language. Much of what humans talk about concerns ourselves and other people. Over time, a body of language arose that covered the commonality and variation among human beings. Statistical methods can examine a corpus of text and words and determine how these words clump together under a small set number of categories. Five turns out to be the number using this approach.
+The five factors are openness, conscientiousness, extraversion, agreeableness, and neuroticism. [You can remember this with the acronyms OCEAN or CANOE].
+[I wrote a brief explainer of the Big Five traits and posted my personality resultshere].
+[I wrote a brief explainer of the Big Five traits and posted my personality results
+].
+You can also simply ask people to describe themselves. Questions, phrases, adjectives, and so on. Statistically analyzing the descriptors people produce to describe themselves also yields five categories.
+[For example, words like confrontational, gregarious, talkative, etc. would, using statistical techniques, clump together under the broader general category of extraversion]
+Different researchers have used different means and have independently arrived at the Big Five personality traits.
+Broadly, the five factor model of personality is fairly stable cross culturally.
+[The Big Five works well within developed countries. Less so in developing and small-scale traditional societies. Researchers have failed to identify the five personality dimensions in non-student adult populations in Bolivia, Ghana, Kenya, Laos, Sri Lanka, Vietnam, and Macedonia, among other non-WEIRD (western, education, industrialized, rich, democratic) locations. WEIRD societies prize individualism and the cultivation of personal attributes. In contrast, in kin-based groups centered on the community rather than the individual, people have less desire to express and cultivate their underlying traits. For instance, the Tsimane, a farmer-forager community, show only 2 dimensions of personality that dont perfectly map onto any of the Big Five traits: Interpersonal prosociality, which is the inclination to cultivate rich social relationships. And industriousness, which is working hard on useful skills like weaving and hunting.]
+[Modern egalitarian rich societies magnify differences between people. Small scale, traditional, resource-poor environments shrink differences. Those of us in WEIRD societies exist in one of the most permissive social structures in history. This allows underlying genetic propensities to express themselves. Yet we also live in a society that believes more in blank slatism than any other. Our society simultaneously magnifies differences while denying they exist.]
+[All this being said, the Big Five is a valid and reliable model of personality for people in modern, developed countries.]
+Jordan notes that many researchers are reluctant to give up their specific measure that they have developed because theyve staked their career on it. They fear that if they give up their measure that they have developed, then they are giving up their position in the career hierarchy theyve worked so hard to attain.
+[Jordan suggests that when research psychologists claim to have developed a new measure, often theyre simply rediscovering a trait that would fall under the Big Five. However, I worry that Big Five proponents do this as well. Rather than accepting a potential different personality trait, they try to twist it, sometimes justifiably, sometimes not, into one of the existing five personality dimensions.]
+[Theres another personality model that is also growing in popularity called the HEXACO model. This has six factors: Honesty-Humility, Emotionality, Extraversion, Agreeableness, Conscientiousness, and Openness to Experience. Theres a lot of overlap between the HEXACO model and the Big Five. One notable difference, though, is that the HEXACO models contains an Honesty-Humility factor, which is not a part of the Big Five. Honesty-Humility captures how fair and sincere someone is when dealing with others. Its similar to trait Agreeableness. But not quite the same. Agreeableness, roughly, measures how willing you are to interact with and cooperate with someone who might exploit you or take advantage of you. Honesty-Humility, in contrast, is about how willing you are to exploit or take advantage of someone else.]
+[The dust hasnt yet settled on whether HEXACO will eventually supplant the Big Five. Its too early to tell.]
+Jordan suggests that self-esteem isnt real, and is simply extraversion minus neuroticism.
+[I dont doubt this conception of self-esteem as it relates specifically to measures of personality traits. But based on my own understanding of the literature, self-esteem is essentially a proxy for how much we believe we are valued by those around us. There are evolutionary reasons for a variable to exist in our own minds regarding how we feel about ourselves, and it should update based on how well others evaluate us.]
+Jordan talks about how the supposed psychological concept of grit was essentially a rediscovery of the personality trait conscientiousness. He wrote about it here on Quora some years ago:
+By the way, there is also no such thing as "grit," despite what Angela Duckworth[NB: the psychologist who developed the concept of grit]says. Grit is conscientiousness, plain and simple (although probably more the industrious side than the orderly side). All Duckworth and her compatriots did was fail to notice that they had re-invented a very well documented phenomena, that already had a name (and, when they did notice it, failed to produce the appropriate mea culpas. Not one of psychology's brighter moments). A physicists who "re-discovered" iron and named it melignite or something equivalent would be immediately revealed as ignorant or manipulative (or, more likely, as ignorant and manipulative), and then taunted out of the field. Duckworth? She received a MacArthur Genius grant for her trouble.
+By the way, there is also no such thing as "grit," despite what Angela Duckworth[NB: the psychologist who developed the concept of grit]says. Grit is conscientiousness, plain and simple (although probably more the industrious side than the orderly side). All Duckworth and her compatriots did was fail to notice that they had re-invented a very well documented phenomena, that already had a name (and, when they did notice it, failed to produce the appropriate mea culpas. Not one of psychology's brighter moments). A physicists who "re-discovered" iron and named it melignite or something equivalent would be immediately revealed as ignorant or manipulative (or, more likely, as ignorant and manipulative), and then taunted out of the field. Duckworth? She received a MacArthur Genius grant for her trouble.
+[NB: the psychologist who developed the concept of grit]
+Jordan observes how tough the scientific enterprise can be; you spend years on a research project and hope to get significant results, and if you dont, you feel as if youve wasted all that time. He describes how one of his students tried to predict academic performance using a measure of personal values and it didnt get anywhere. This, among other reasons, led to his student not receiving his PhD, despite working very hard.
+[Its a thorny question of how to approach a PhD program as a student in psychology or any other social science discipline. On the one hand, you can take a risk and try something novel, with a high risk of failure and subsequently no publications and, perhaps, no PhD (most psychology PhD graduates never produce a single peer-reviewed paper, though elite programs generally expect you to do so in order to receive the degree). But taking the novel approach can potentially contribute to a major landmark finding, or what seems to be a landmark finding but is in fact a rediscovery of something that has already been identified. Or you can be cautious and build on what already exists, make some incremental progress, with an increased likelihood of getting papers published and a PhD. But you likely wont contribute anything novel or flashy or groundbreaking. I personally opted for the latter approach, and channeled my creative energy into my online writing and side hustles].
+Much of science is about the objective process of determining truth; but we also want to identify objective truths that are pragmatically useful.
+You can see glimmers of personality differences in babies and young children. Temperament, likelihood of crying, soothability, willingness to abide by rules, etc.
+Ill post notes for lecture 3 soon.
+To receive new posts, access thefull archives, and support my work, consider becoming a free or premium subscriber.
+Subscribed
+Comments
+Restacks
+david roberts
+david roberts
+
+Sparks from Culture by David Ro
+Sparks from Culture by David Ro
+Sparks from Culture by David Ro
+Aug 18, 2023
+As to hiring, grit is really hard to measure while IQ is not. Lost keys, streetlamp.
+As to hiring, grit is really hard to measure while IQ is not. Lost keys, streetlamp.
+I've done a lot of hiring in my career (and therefore have inevitably made a lot of bad calls). My biggest takeaway is that the key to hiring is to match what the job demands to the skills and experience of the person. Certain jobs might require a lot of experience overcoming adversity and others might require raw intelligence as measured by IQ.
+I've done a lot of hiring in my career (and therefore have inevitably made a lot of bad calls). My biggest takeaway is that the key to hiring is to match what the job demands to the skills and experience of the person. Certain jobs might require a lot of experience overcoming adversity and others might require raw intelligence as measured by IQ.
+I think Peterson wishes he was anointed a genius rather than Duckworth and that explains quite a bit of his obvious angst and animus.
+I think Peterson wishes he was anointed a genius rather than Duckworth and that explains quite a bit of his obvious angst and animus.
+Like (2)
+Reply
+Share
+JJ-1923
+JJ-1923
+JJ-1923
+JJ-1923
+JJ-1923
+Aug 18, 2023
+How much movement can there be in the traits, really? My neuroticism is higher than Id like.  Am I doomed to that, or can I improve it?  I mean Im sure Ill always be more neurotic than average, but can I move my set point, so to speak?
+How much movement can there be in the traits, really? My neuroticism is higher than Id like.  Am I doomed to that, or can I improve it?  I mean Im sure Ill always be more neurotic than average, but can I move my set point, so to speak?
+Like (2)
+Reply
+Share
+Top
+Latest
+Discussions
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+
+undefined subscriptions will be displayed on your profile (edit)
+Skip for now
+For your security, we need to re-authenticate you.
+Click the link we sent to sasha.p.podolsky@gmail.com, orclick here to sign in.

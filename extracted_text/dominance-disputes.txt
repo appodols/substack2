@@ -1,0 +1,177 @@
+
+
+1
+Book meeting
+Book a meeting
+
+Subscribed
+Share
+Share
+Give a gift subscription
+Give a gift subscription
+On the topic of moral taboos, Paul Graham haswritten:
+On the topic of moral taboos, Paul Graham has
+:
+I suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them.
+I suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them.
+I read this and thought about status conflicts. People are most likely to challenge anothers attempt at dominance when they feel strong enough to take them on, but weak enough to need to. In other words, when who outranks whom is unclear.
+This is true for monkeys.
+In his superb 2019 bookBlueprint: The Evolutionary Origins of a Good Society, Nicholas Christakis describes a study of 84 macaques at the Yerkes National Primate Research Center. The research team identified the leaders in this monkey community. They then removed the highest-ranking monkeys, and observed the resulting interactions. Chaos ensued.
+In his superb 2019 book
+, Nicholas Christakis describes a study of 84 macaques at the Yerkes National Primate Research Center. The research team identified the leaders in this monkey community. They then removed the highest-ranking monkeys, and observed the resulting interactions. Chaos ensued.
+When high-ranking monkeys were knocked out (as the scientists called it), conflict and aggression soared. After the leaders were removed, the group had fewer grooming interactions and played less frequently. Social ties disintegrated. This suggests that stable leadership promotes peaceful interactions not only between leaders and followers, Christakis writes, but also between followers and other followers.
+When the monkey leaders were in place, they intervened between status-seekers and regulated social connections. Lower-ranking monkeys knew that if conflict arose, the higher-ranking monkeys would step in. The presence of leaders allowed lower-ranking monkeys to interact with one another without fear of attack. When the leaders were removed, the macaques began jockeying for power, which resulted in mayhem and violence.
+What about for humans?
+In the second year of my doctoral program I read an obscure book calledCollision of Wills: How Ambiguity about Social Rank Breeds Conflictby the Yale sociologist, Roger V. Gould. The key idea of the book, which helps to illuminate many different forms of social conflict (including envy and intra-elite competition):
+In the second year of my doctoral program I read an obscure book called
+by the Yale sociologist, Roger V. Gould. The key idea of the book, which helps to illuminate many different forms of social conflict (including envy and intra-elite competition):
+Status ambiguity increases the likelihood of conflict. And when there is a clear and understood social hierarchy, conflict is less likely.
+Gould examined data from U.S. cities as well as villages in India. He found that an individual is 4 to 8 times more likely to commit homicide against a person of equal social status compared to a person of higher or lower status. Conflict between peers was more likely to escalate into homicide.Status symmetry giving rise to conflict even occurs within families. Gould cites research showing that males are more likely to kill brothers than sisters. And females are more likely to kill sisters than brothers (though, unsurprisingly, males do more killing overall). A son is far more likely to kill his father than his mother, while a daughter is more likely to kill her mother than her father. I havent seen data on this, but wouldnt be surprised if fathers are more likely to kill sons than daughters, and mothers more likely to kill daughters than sons.When there is ambiguity about who holds the upper hand, the likelihood of conflict increases. There are parallel findings from animalresearch, suggesting that when two animals of the same species are similarly-sized, conflict is more likely than when there is a large size disparity.Interestingly, mathematical modelingsuggeststhat an animal fighting an opponent of roughly equal size and strength could actually incur more damage than fighting a larger opponent. This is because when a smaller animal fights a larger animal, the smaller one is likely to submit faster and thus both parties will incur less damage. In contrast, fights between two similarly-sized animals tend to be more prolonged. This heightens the likelihood of severe injury.Size might be a factor in dominance disputes between humans, too. In an amusingstudyfrom 2015, researchers observed people trying to pass in opposite directions on a narrow sidewalk. They found that when two people of the same sex walked in opposite directions, the shorter person yielded to the taller person 67% of the time. When they controlled for estimated age, the shorter person gave way to the taller person 75% of the time.
+Gould examined data from U.S. cities as well as villages in India. He found that an individual is 4 to 8 times more likely to commit homicide against a person of equal social status compared to a person of higher or lower status. Conflict between peers was more likely to escalate into homicide.
+
+Status symmetry giving rise to conflict even occurs within families. Gould cites research showing that males are more likely to kill brothers than sisters. And females are more likely to kill sisters than brothers (though, unsurprisingly, males do more killing overall). A son is far more likely to kill his father than his mother, while a daughter is more likely to kill her mother than her father. I havent seen data on this, but wouldnt be surprised if fathers are more likely to kill sons than daughters, and mothers more likely to kill daughters than sons.
+
+When there is ambiguity about who holds the upper hand, the likelihood of conflict increases. There are parallel findings from animal
+, suggesting that when two animals of the same species are similarly-sized, conflict is more likely than when there is a large size disparity.
+
+Interestingly, mathematical modeling
+that an animal fighting an opponent of roughly equal size and strength could actually incur more damage than fighting a larger opponent. This is because when a smaller animal fights a larger animal, the smaller one is likely to submit faster and thus both parties will incur less damage. In contrast, fights between two similarly-sized animals tend to be more prolonged. This heightens the likelihood of severe injury.
+
+Size might be a factor in dominance disputes between humans, too. In an amusing
+from 2015, researchers observed people trying to pass in opposite directions on a narrow sidewalk. They found that when two people of the same sex walked in opposite directions, the shorter person yielded to the taller person 67% of the time. When they controlled for estimated age, the shorter person gave way to the taller person 75% of the time.
+InCollision of Wills, Gould offers a simple example. Typically, in employer-employee relationships, the boss is the older one and the employee is the younger one.Imagine a situation in which the boss is younger, and the subordinate is older. It is easy to understand why this situation might lead to more awkwardness and potential conflictthan a situation where the boss is the older one. The older subordinate might feel disrespected, or feel he wasnt given his due, or believe the boss is an upstart, or whatever. The younger boss might feel he needs to convey authority or feel that the older person isnt taking him seriously. Both will be more sensitive to status injuries than if the employee were younger.Gould says, disputes are not about what they seem  disputes are about social relationships. He observes that oftentimes violence erupts over small matters like a parking space, a trivial sum of money, or a casual insult. Gould cites data demonstrating that altercations of relatively trivial origin accounts for more than one-third of homicides in the U.S.Arguments about a $5 bet can escalate into physical violence. Turning this into a fist fight might seem silly. But a rational person might be concerned with the long-term consequences of looking weak to others.If he lets this $5 go without challenge, he will be viewed as more exploitable. So the fist fight is not about the five-spot, its aboutpreventing future exploitation.Sometimes disputes seem to be about one thing. But they're really about something else. A 2013 paper discussing revengereportsthat:
+In
+, Gould offers a simple example. Typically, in employer-employee relationships, the boss is the older one and the employee is the younger one.
+
+Imagine a situation in which the boss is younger, and the subordinate is older. It is easy to understand why this situation might lead to more awkwardness and potential conflictthan a situation where the boss is the older one. The older subordinate might feel disrespected, or feel he wasnt given his due, or believe the boss is an upstart, or whatever. The younger boss might feel he needs to convey authority or feel that the older person isnt taking him seriously. Both will be more sensitive to status injuries than if the employee were younger.
+
+Gould says, disputes are not about what they seem  disputes are about social relationships. He observes that oftentimes violence erupts over small matters like a parking space, a trivial sum of money, or a casual insult. Gould cites data demonstrating that altercations of relatively trivial origin accounts for more than one-third of homicides in the U.S.
+
+Arguments about a $5 bet can escalate into physical violence. Turning this into a fist fight might seem silly. But a rational person might be concerned with the long-term consequences of looking weak to others.
+
+If he lets this $5 go without challenge, he will be viewed as more exploitable. So the fist fight is not about the five-spot, its about
+.
+
+Sometimes disputes seem to be about one thing. But they're really about something else. A 2013 paper discussing revenge
+that:
+Victims retaliate more when an audience has witnessed the provocation...when 2 men have an argument on the street, the presence of a third person doubles the likelihood the encounter will escalate from a verbal altercation to one that involves violence.
+Victims retaliate more when an audience has witnessed the provocation...when 2 men have an argument on the street, the presence of a third person doubles the likelihood the encounter will escalate from a verbal altercation to one that involves violence.
+
+People who care about their reputation might respond to minor insults with violence. This is to avoid getting locked in to a lowly position. This is more likely when the insulter and the target are roughly equal in status. If the target accepts the insult without retaliation, then he risks losing relative status to his rival.For a more concrete empirical case, consider thisstudyon Formula One racers. Researchers found that pairs of drivers who were roughly equal in status were more likely to end up in collisions. They examined F1 Championship seasons from 1970 through 2014. They found that drivers who had similar competitive histories (i.e., won and lost to the same drivers) were especially prone to goading each other into fast and reckless driving, and subsequently crashing.
+People who care about their reputation might respond to minor insults with violence. This is to avoid getting locked in to a lowly position. This is more likely when the insulter and the target are roughly equal in status. If the target accepts the insult without retaliation, then he risks losing relative status to his rival.
+
+For a more concrete empirical case, consider this
+on Formula One racers. Researchers found that pairs of drivers who were roughly equal in status were more likely to end up in collisions. They examined F1 Championship seasons from 1970 through 2014. They found that drivers who had similar competitive histories (i.e., won and lost to the same drivers) were especially prone to goading each other into fast and reckless driving, and subsequently crashing.
+Relatedly, studies indicate that envy isreserved primarilyfor those who are similar to ourselves.
+Relatedly, studies indicate that envy is
+for those who are similar to ourselves.
+From aninterviewwith one of Carl Jungs students:
+From an
+with one of Carl Jungs students:
+Suzanne Wagner: Jung seems to have found not as many men who could join him. Is that your impression?Marie-Louise von Franz: I don't know. There were some men who followed Jung with whom he had very good contact. Butnaturally, there was also a lot of trouble because men, especially men in the same field, got better on with men in another fieldpoets, writers, artists, and so onbecause they don't compare themselves with him. They had the feeling, "I am a good painter" or "I am a good writer," and "This is a good psychologist." But if you are in the same field, there was always jealousy. They compared themselves with him, and then they felt crushed and inferior, and then they became nasty. That was a very regular pattern you saw with many who were working in the field of psychology and psychiatry. You need a certain generosity to appreciate a great person of your same sex, and the devil always whispers to you, "He's better, I am better, he's only that, I'm better," and then the old jealousy, and then it creates trouble. He took great trouble to avoid that, but in a way, he was a crushing personality for a man. He did everything better. He was better in psychology, but then he painted beautifully, he could cut in stone, so whenever you compared yourself with him, you felt like an "L." That naturally created a lot of problems.
+Suzanne Wagner: Jung seems to have found not as many men who could join him. Is that your impression?
+Marie-Louise von Franz: I don't know. There were some men who followed Jung with whom he had very good contact. Butnaturally, there was also a lot of trouble because men, especially men in the same field, got better on with men in another fieldpoets, writers, artists, and so onbecause they don't compare themselves with him. They had the feeling, "I am a good painter" or "I am a good writer," and "This is a good psychologist." But if you are in the same field, there was always jealousy. They compared themselves with him, and then they felt crushed and inferior, and then they became nasty. That was a very regular pattern you saw with many who were working in the field of psychology and psychiatry. You need a certain generosity to appreciate a great person of your same sex, and the devil always whispers to you, "He's better, I am better, he's only that, I'm better," and then the old jealousy, and then it creates trouble. He took great trouble to avoid that, but in a way, he was a crushing personality for a man. He did everything better. He was better in psychology, but then he painted beautifully, he could cut in stone, so whenever you compared yourself with him, you felt like an "L." That naturally created a lot of problems.
+Marie-Louise von Franz: I don't know. There were some men who followed Jung with whom he had very good contact. But
+You see this a version of this online. Speaking from the male point of view, I notice that guys tend to be most bothered by high-profile males who they see as similar to themselves. This is related tothe"it could have been me" effect. They implicitly view these high-profile males as competition. They see these males who are more successful (and less anonymous) in a domain they aspire to succeed in as rivals. Often, these rivals agree with them on about 85% of issues and are unapologetic about their views. These haters direct their attention to the remaining 15%. The targets of our envy tend to be those who are similar to ourselves who achieve higher levels of success in a domain we care about than us.
+You see this a version of this online. Speaking from the male point of view, I notice that guys tend to be most bothered by high-profile males who they see as similar to themselves. This is related to
+"it could have been me" effect. They implicitly view these high-profile males as competition. They see these males who are more successful (and less anonymous) in a domain they aspire to succeed in as rivals. Often, these rivals agree with them on about 85% of issues and are unapologetic about their views. These haters direct their attention to the remaining 15%. The targets of our envy tend to be those who are similar to ourselves who achieve higher levels of success in a domain we care about than us.
+Gould extends this idea of statusconflict to disagreements in general. Most interpersonal conflict stems from unwelcome dominance exerted in social interactions.Suppose you regularly meet a peer for coffee, although the location varies. If, one day, your peer tells you where to meet without any gesture toward consideration of your preferences, you might feel peeved. Meet me at X. is different from How about we meet at X?The issue about where to meet is not as important as the issue of your peer unilaterally making the decision. Where you meet isn't the issue, it's the fact that this person made the decision without consulting you. Some might say its the principle that concerns them. Gould would say principle is code for dominance dispute.He writes, If you are accustomed to an equal say in decisions, a unilateral action by a friend will offend you not only because you want an equal say now but because you want to preserve your equal status for the future. In other words, what starts off as a small matter (where to meet for coffee) can escalate into a serious conflict. Disputes are not always what they seem.I suspect this is why people can hold grudges against someone for years. And then one day realize they dont know why they are so upset at the person. The memory of what actually happened fades. But the feeling from when a person attempted to exert unwelcome dominance remains.Often, material stakes are less important than underlying status conflicts. Gould goes so far as to say When people get into serious conflicts about material things such as money, land, and merchandise, it is not because these are the important things in life but because they are a very concrete, visible way in which people show each other who is in charge: they are, to distort a famous phrase, good to compete with. When evaluating disputes, sometimes it is better to step back from the immediate picture and focus instead on the social relations people have with one another.
+Gould extends this idea of statusconflict to disagreements in general. Most interpersonal conflict stems from unwelcome dominance exerted in social interactions.
+
+Suppose you regularly meet a peer for coffee, although the location varies. If, one day, your peer tells you where to meet without any gesture toward consideration of your preferences, you might feel peeved. Meet me at X. is different from How about we meet at X?
+
+The issue about where to meet is not as important as the issue of your peer unilaterally making the decision. Where you meet isn't the issue, it's the fact that this person made the decision without consulting you. Some might say its the principle that concerns them. Gould would say principle is code for dominance dispute.
+
+He writes, If you are accustomed to an equal say in decisions, a unilateral action by a friend will offend you not only because you want an equal say now but because you want to preserve your equal status for the future. In other words, what starts off as a small matter (where to meet for coffee) can escalate into a serious conflict. Disputes are not always what they seem.
+
+I suspect this is why people can hold grudges against someone for years. And then one day realize they dont know why they are so upset at the person. The memory of what actually happened fades. But the feeling from when a person attempted to exert unwelcome dominance remains.
+Often, material stakes are less important than underlying status conflicts. Gould goes so far as to say When people get into serious conflicts about material things such as money, land, and merchandise, it is not because these are the important things in life but because they are a very concrete, visible way in which people show each other who is in charge: they are, to distort a famous phrase, good to compete with. When evaluating disputes, sometimes it is better to step back from the immediate picture and focus instead on the social relations people have with one another.
+Likewise in his fascinating bookCodes of the Underworld: How Criminals Communicate, the sociologist Diego Gambetta writes:
+Likewise in his fascinating book
+, the sociologist Diego Gambetta writes:
+Prisoners mentioned a material interest such as drugs, as being the motive of a fight only in a quarter of cases...By contrast, non-material interests (self-respect, honor, fairness, loyalty, personal safety and privacy) were important in every incident.
+Prisoners mentioned a material interest such as drugs, as being the motive of a fight only in a quarter of cases...By contrast, non-material interests (self-respect, honor, fairness, loyalty, personal safety and privacy) were important in every incident.
+Of course, sometimes disputes are about what people say they are about. One way to understand the difference between a substantive dispute and a status conflict is whether an apology would repair the relationship. A verbal apology might be enough to subdue a status dispute, but wouldnt be enough to make amends for a substantive transgression. A simple apology for insulting someone might smooth things over, but a simple apology for burning their house down probably wouldnt.
+Returning to the main idea, hierarchical relationships are less likely to erupt into conflict. Examples include formal hierarchies: Militaries, organized tournaments in sports, and monarchical succession.The military is a prime example of this. There is an explicit allocation of rank. Formal titles, uniforms, physical gestures (saluting), an indoctrination process that involves learning the rank structure. Cohesion is key for military organizations. The absence of within-group conflict is crucial.If one military (or any group in competition with another) has no internal conflict and another one does, then, all things being equal, the one without internal conflict (the more cohesive group) will win.Between individuals, when social cues for settling a status dispute are unavailable or ambiguous, the chances of conflict increase. Both parties are more likely to endure long disputes. This raises the probability that violence will arise. Again, this echoes the finding that two evenly-sized animals will persevere in a lengthy fight relative to two differently-sized animals.The more clearly specified a relationship is (e.g., the boss decides, defer to elders, ladies first) the easier it is for people to agree on how decisions should be made. But when no such appeals are available, or when they are available but contradictory (as in the case of the younger boss and older subordinate), conflict may escalate. Equal claims to superior rank (or the absence of methods to determine rank) heightens the likelihood of conflict.
+Returning to the main idea, hierarchical relationships are less likely to erupt into conflict. Examples include formal hierarchies: Militaries, organized tournaments in sports, and monarchical succession.
+
+The military is a prime example of this. There is an explicit allocation of rank. Formal titles, uniforms, physical gestures (saluting), an indoctrination process that involves learning the rank structure. Cohesion is key for military organizations. The absence of within-group conflict is crucial.
+
+If one military (or any group in competition with another) has no internal conflict and another one does, then, all things being equal, the one without internal conflict (the more cohesive group) will win.
+
+Between individuals, when social cues for settling a status dispute are unavailable or ambiguous, the chances of conflict increase. Both parties are more likely to endure long disputes. This raises the probability that violence will arise. Again, this echoes the finding that two evenly-sized animals will persevere in a lengthy fight relative to two differently-sized animals.
+
+The more clearly specified a relationship is (e.g., the boss decides, defer to elders, ladies first) the easier it is for people to agree on how decisions should be made. But when no such appeals are available, or when they are available but contradictory (as in the case of the younger boss and older subordinate), conflict may escalate. Equal claims to superior rank (or the absence of methods to determine rank) heightens the likelihood of conflict.
+As the authors of apaperin theJournal of Experimental Psychologyput it:
+As the authors of a
+in the
+put it:
+"Status hierarchies establish a mutually accepted agreement on the differential priority and access to contested resources, and thereby enable stable patterns of social exchange, prevent costly fights, and, in consequence, maximize individual fitness."
+"Status hierarchies establish a mutually accepted agreement on the differential priority and access to contested resources, and thereby enable stable patterns of social exchange, prevent costly fights, and, in consequence, maximize individual fitness."
+
+This might be whats going on with college campuses. At least at elite universities, students hear that they are the future leaders, that they are brilliant, that the campus is "for them." Then when they have a dispute with a professor or a guest speaker, a dominance struggle ensues. There is no straightforward way to adjudicate status conflicts between undergrads and professors. In the past, it was easier for people to agree about who should prevail in these contests. Now, such conflicts are often protracted and sometimesescalateintoviolence.
+This might be whats going on with college campuses. At least at elite universities, students hear that they are the future leaders, that they are brilliant, that the campus is "for them." Then when they have a dispute with a professor or a guest speaker, a dominance struggle ensues. There is no straightforward way to adjudicate status conflicts between undergrads and professors. In the past, it was easier for people to agree about who should prevail in these contests. Now, such conflicts are often protracted and sometimesescalateinto
+.
+Near the end ofCollision of Wills, Gould comments on Tocquevilles observations of the relative social equality in America. Gould thenconcludes:
+Near the end of
+, Gould comments on Tocquevilles observations of the relative social equality in America. Gould thenconcludes:
+Americans, like anyone else, then and now, prefer equality to subordination, but many, perhaps most, would find a situation in which others were subordinate tothemeven more satisfactory. The idea of equality, of a society without rank, is much more a compromise solutionan insistence that, if I cant be king, then no one else can eitherthan it is a fulfillment of a noble dream.
+Americans, like anyone else, then and now, prefer equality to subordination, but many, perhaps most, would find a situation in which others were subordinate tothemeven more satisfactory. The idea of equality, of a society without rank, is much more a compromise solutionan insistence that, if I cant be king, then no one else can eitherthan it is a fulfillment of a noble dream.
+To receive new posts, access more than100 premium archived posts, and support my work, consider becoming a free or paid subscriber.
+Subscribed
+
+Comments
+Restacks
+Shawna Roar
+Shawna Roar
+Shawna Roar
+Shawna Roar
+Shawna Roar
+Jun 18
+Interestingly, in parent-child dynamics status confusion can also lead to violent disequilibrium. Many of my clients seeking services for behavioral challenges are afraid of their children which makes them more aggressive and unstable.
+Interestingly, in parent-child dynamics status confusion can also lead to violent disequilibrium. Many of my clients seeking services for behavioral challenges are afraid of their children which makes them more aggressive and unstable.
+Like (4)
+Reply
+Share
+Anne Rudig
+Anne Rudig
+Anne Rudig
+Anne Rudig
+Anne Rudig
+Jun 18
+So much here!
+So much here!
+To grossly summarize, this is why writers should never marry writers, why dating is so hard for young people now, why we have what we have on campuses. Ambiguity of power dynamics. Fascinating.
+To grossly summarize, this is why writers should never marry writers, why dating is so hard for young people now, why we have what we have on campuses. Ambiguity of power dynamics. Fascinating.
+Like (2)
+Reply
+Share
+Top
+Latest
+Discussions
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+
+undefined subscriptions will be displayed on your profile (edit)
+Skip for now
+For your security, we need to re-authenticate you.
+Click the link we sent to sasha.p.podolsky@gmail.com, orclick here to sign in.

@@ -1,0 +1,140 @@
+
+
+1
+Book meeting
+Book a meeting
+Subscribed
+Share
+Share
+Give a gift subscription
+Give a gift subscription
+Ive been listening to lectures for acoursetitled Understanding Human Emotions by Dr. Lawrence Ian Reed, a Clinical Professor of Psychology at New York University.
+Ive been listening to lectures for a
+titled Understanding Human Emotions by Dr. Lawrence Ian Reed, a Clinical Professor of Psychology at New York University.
+Notes for lecture 1here.
+Notes for lecture 1
+.
+Below are my highlights, notes and reactions to lecture 2.
+[In square brackets are thoughts/notes I jotted while listening]:
+This lecture focuses on how evolution pertains to humanemotions
+This lecture focuses on how evolution pertains to human
+Professor Reed opens with a quote from the biologist George C. Williams: Is it not reasonable to anticipate that our understanding of the human mind would be aided greatly by knowing the purpose for which it was designed?
+Evolutionary theory provides a framework for describing the functionsthat is, the purposesof our emotions and the problems they were designed to solve
+This will help us to understand why we feel different emotions in different scenarios
+Evolution operates at the level of the gene, not the individual carrying the gene
+Reed offers a useful thought experiment to help understand this: Imagine you wanted to survive until the year 2400. You want to create a cryogenic capsule to preserve your body for the next few centuries. But in the ensuing decades, your capsule (and your body within it) might be tampered with or destroyed. There are two possible engineering solutions.
+First, you can go off and find a quiet area to place your capsule, and hope that no one will harm it or you after you enter it and go to sleep for a few hundred years. This is analogous to what plant life does.
+The second strategy is more complex and pricier, but you dont have to worry about your body being tampered with or destroyed. You can create a mobile cryogenic unit. You add sensors and early warning devices. With these additions, you can evade danger and make repairs. This is analogous to what animal life does.
+You build the mobile unit, and you program it not to benefit itself, but rather to benefit you. Any program it executes prioritizes you rather than itself. Any path it takes will, on average, serve your interests in order to ensure your survival. You are the sole purpose of this robot. After all, youre your interests will usually align, though not always. Generally if the robot survives a perilous skirmish, you would survive too.
+Reed asks: How would you design this robot? Youd likely want it to have vision, senses, feelings, selfishness, algorithms, heuristics, etc.
+Now imagine others also want to live until the year 2400, and they also build robots equipped with devices and algorithms to benefit their own survival.
+This thought experiment helps us to understand the perspective of the gene. Genes are not conscious entities; they merely replicate themselves. From our point of view as humansas intentional beingswe use intentional language as a shorthand to comprehend how they operate.
+[It comes naturally for humans to attribute mental states like intentionality to non-conscious entities.]
+[Goals do not need to be consciously understood by an entity to be effective. Goals do not need to be internally represented at all. For instance, single-celled organisms swim toward nutrients without any awareness or understanding of the reason for their behavior. But as humansas intentional beings who evolved in a highly social environment with other conscious beingswe use language like It is seeking sustenance
+One of Darwins enduring insights is that nature chooses which traits survive each generation (again, intentional language is just a shorthand way of communicating the idea of natural selection). Those traits that best aid in survival and reproduction are more likely to be chosen, that is, survive and be passed on to offspring.
+Darwin found that organisms that were best adapted to their surroundings were the most likely to leave descendants
+[When evolution has to make tradeoffs between survival and reproduction, reproduction usually wins. Traits that aid reproduction can inflict costs on survival: The ovarian hormones that make women fertile when young increases odds of breast cancer later in life. Testosterone tends to boost men's attractiveness when young but raises odds of prostate cancer later in life.]
+[Imagine an organism highly adapted to its environment that has a long life but never reproduces (perhaps its unable toattract a mateor uninterested in doing so). It will not pass on its genes. Now imagine an organism that is moderately adapted to its environment, lives long enough to reproduce, and then dies. This second organism will pass on its genes.]
+[Imagine an organism highly adapted to its environment that has a long life but never reproduces (perhaps its unable to
+or uninterested in doing so). It will not pass on its genes. Now imagine an organism that is moderately adapted to its environment, lives long enough to reproduce, and then dies. This second organism will pass on its genes.]
+[The currency of evolutionis reproduction. Every one of your ancestors managed to reproduce. They form an unbroken chain dating back billions of years. The drive to reproduce is fundamental. Evolution doesnt care that much about survival. It cares primarily about reproduction. A trait that damages survival can still spread if it aids in reproduction. Risk-taking, for example, might put an animal in increased physical danger and thus greater odds of death. But if risk-taking is also, on average, associated with obtaining access to reproductive partners, or impressing reproductive partners, then this trait can still spread.]
+[The currency of evolution
+. Every one of your ancestors managed to reproduce. They form an unbroken chain dating back billions of years. The drive to reproduce is fundamental. Evolution doesnt care that much about survival. It cares primarily about reproduction. A trait that damages survival can still spread if it aids in reproduction. Risk-taking, for example, might put an animal in increased physical danger and thus greater odds of death. But if risk-taking is also, on average, associated with obtaining access to reproductive partners, or impressing reproductive partners, then this trait can still spread.]
+The reproductive rates of organisms are not random. Rather, nature selects those best able to cope with the environment. Organisms unable to cope with the environment have few or no offspring.
+[Evolutionarily, one reason human males exist is we have higher reproductive variancemore males than females dont reproduce and diethe idea is these males carry more mutations, are less adapted to their environment, less likely to be chosen for reproduction by females, and leave no descendants. Males are basically the garbage collectors of negative mutations in the species. Throughout history,far moremen died childless compared with women.]
+[Evolutionarily, one reason human males exist is we have higher reproductive variancemore males than females dont reproduce and diethe idea is these males carry more mutations, are less adapted to their environment, less likely to be chosen for reproduction by females, and leave no descendants. Males are basically the garbage collectors of negative mutations in the species. Throughout history,
+men died childless compared with women.]
+Due to genetics,parentstend to have offspring similar to themselves. Any advantages that allow an organism to survive and reproduce are frequently passed on to their children. Disadvantages, in contrast, are less likely to be passed on, because organisms that have disadvantageous traits tend not to survive for long and tend to be selected less often for mating and reproduction.
+Due to genetics,
+tend to have offspring similar to themselves. Any advantages that allow an organism to survive and reproduce are frequently passed on to their children. Disadvantages, in contrast, are less likely to be passed on, because organisms that have disadvantageous traits tend not to survive for long and tend to be selected less often for mating and reproduction.
+Over many generations, natural selection shapes organisms to be well-adapted to their environment. Advantages become more common over time; disadvantages become less common over time or disappear entirely.
+[This raises the question: Why has evolution retained a heterogeneity of different traits within the same species? Particularly with regard to humans. In other words, why do we not all have some fixed optimal set of attributes with regard toour personalities, mental and physical abilities, temperament, preferences, and so on? A large body of research in evolutionary biology and psychology suggests that evolution has not selected a singular optimal set of traits because no such set exists across all possible varied environments. For example,PersonalityA (e.g., proneness to behavioral expressions of rage) might be optimal in environment Y whereaspersonalityB (e.g., strong impulse control) might be best suited for environment X. In evolutionary terms, there are no universal selection pressures to eradicate individual human differences among people across different environments.]
+[This raises the question: Why has evolution retained a heterogeneity of different traits within the same species? Particularly with regard to humans. In other words, why do we not all have some fixed optimal set of attributes with regard to
+, mental and physical abilities, temperament, preferences, and so on? A large body of research in evolutionary biology and psychology suggests that evolution has not selected a singular optimal set of traits because no such set exists across all possible varied environments. For example,
+A (e.g., proneness to behavioral expressions of rage) might be optimal in environment Y whereas
+B (e.g., strong impulse control) might be best suited for environment X. In evolutionary terms, there are no universal selection pressures to eradicate individual human differences among people across different environments.]
+We have inherited adaptations from our ancestors that they used to solve recurrent problems in their environments.
+[Our evolved traits benefited our ancestors. Our environments have changed much faster than our minds. Our emotional and cognitive architecture was, very roughly speaking, shaped for small-scale nomadic hunter-gatherer societies between 10,000-300,000 years ago. This is why evolutionary scientists focus on how our existing traits benefited our ancestors more so than humans in modern developed countries.]
+These adaptations include foraging,mate choice, face recognition, heart rate regulation, predator vigilance, and so on.
+These adaptations include foraging,
+, face recognition, heart rate regulation, predator vigilance, and so on.
+These adaptations can be thought of as mental micro-programs. They are useful, but can create challenges if activated simultaneously and interfere with or nullify one another.
+For example, sleep and flight from a predator require jointly inconsistent actions, calculations, and physiological conditions. Sleep is hard when your mind and your heart are racing. This is not just by chance. Your mind and heart need to race if you believe it is likely a predator is nearby.
+To resolve these disputes between mental micro-program (in this example, sleeping vs. fleeing from a predator), the mind is equipped with superordinate programs to direct these adaptations. These superordinate programs can inhibit and activate different adaptations depending on the circumstances. This is what emotions are. Emotions are superordinate programs that exert control over our mental and behavioral adaptations.
+Anemotion is a superordinate programthat controls the minds many micro-programsattention, memory, learning, goal choice, motivational priorities, categories and conceptual frameworks, and so on.
+An
+that controls the minds many micro-programsattention, memory, learning, goal choice, motivational priorities, categories and conceptual frameworks, and so on.
+For example, if you hear strange voices in your house in the evening, youll feel the emotion of fear. Suddenly, your hearing improves. The main priority is safety. Any other goals and the subsystems that serve them are deactivated. You might be hungry. You might be sleepy. You might be lonely or in physical pain. But when you feel fear, all of those things are subdued. Youre no longer worried about what youre going to have for dinner, or getting ready for bed, or your lower back pain. Your information gathering programs also change. Youll think about where your loved ones are. Youll think about how to get help, or how to call the police, or where your nearest neighbors are. In addition to psychological changes, youll undergo physiological changes as well. Your blood will leave your digestive tract and enter your legs and muscles to enhance your strength and speed. Adrenaline will spike. Your heart rate will either increase or decrease depending on whether the situation calls for physical confrontation, fleeing, or immobility (sometimes described as fight, flight, or freeze).
+Our various emotions such asanger, sadness,disgust, shame, and so on all activate in response to different situations, and evolved in order to improve our ancestors likelihood of surviving andreproducing.
+Our various emotions such as
+, sadness,
+, shame, and so on all activate in response to different situations, and evolved in order to improve our ancestors likelihood of surviving and
+.
+[Emotions evolved because they generally work to confer evolutionary benefits to organisms, helping us to ultimately increase the likelihood of survival or reproductive capacities. For example, under an evolutionary framework, the emotion ofhappinessis not an end goal; it is a means to an end. The things that made us happy in the ancestral environment were typically things that benefited our likelihood of survival and reproduction. A successful hunt, locating a source of honey, eating, obtaining social allies, attracting romantic partners, having sex, having children, bolstering onesstatusand respect, etc. Today, actions associated with accruing resources, satisfying fundamental needs like hunger and thirst, bolstering ouresteemin the eyes of others, being thought of as attractive and desirable, being valued, etc. continue to make us happy.]
+[Emotions evolved because they generally work to confer evolutionary benefits to organisms, helping us to ultimately increase the likelihood of survival or reproductive capacities. For example, under an evolutionary framework, the emotion of
+is not an end goal; it is a means to an end. The things that made us happy in the ancestral environment were typically things that benefited our likelihood of survival and reproduction. A successful hunt, locating a source of honey, eating, obtaining social allies, attracting romantic partners, having sex, having children, bolstering ones
+and respect, etc. Today, actions associated with accruing resources, satisfying fundamental needs like hunger and thirst, bolstering our
+in the eyes of others, being thought of as attractive and desirable, being valued, etc. continue to make us happy.]
+[Even negative emotions are functional. For example,shameand humiliation are emotions that evolved to track our social reputation. Feeling humiliated is evolutionarily adaptive, because it spurs us to avoidstatus-harming situations and behaviors in the future.]
+[Even negative emotions are functional. For example,
+and humiliation are emotions that evolved to track our social reputation. Feeling humiliated is evolutionarily adaptive, because it spurs us to avoid
+-harming situations and behaviors in the future.]
+To receive new posts, access more than100 special archived posts, and support my work, consider becoming a free or paid subscriber.
+Subscribed
+Comments
+Restacks
+DaveW
+DaveW
+Swings and Roundabouts
+Swings and Roundabouts
+Swings and Roundabouts
+Mar 21, 2024
+Thanks for this. One thing that I think needs to made clear to your younger readers (still at school, or just starting uni) is that this is a very good way to write up notes on a lecture. Go over your lecture notes, write them up (using text books and journals to fill them out), trying to put things into your own words as much as possible (apart from any succinct quotes), and the material will not only go in, but you've got concise notes (no padding) to revise from for when the exam rolls round.
+Thanks for this. One thing that I think needs to made clear to your younger readers (still at school, or just starting uni) is that this is a very good way to write up notes on a lecture. Go over your lecture notes, write them up (using text books and journals to fill them out), trying to put things into your own words as much as possible (apart from any succinct quotes), and the material will not only go in, but you've got concise notes (no padding) to revise from for when the exam rolls round.
+I did something like this at uni, but I wish I'd had templates like this to work from.
+I did something like this at uni, but I wish I'd had templates like this to work from.
+Like (5)
+Reply
+Share
+CW
+CW
+CW
+CW
+CW
+Mar 21, 2024
+"Testosterone tends to boost men's attractiveness when young but raises odds of prostate cancer later in life."
+"Testosterone tends to boost men's attractiveness when young but raises odds of prostate cancer later in life."
+I read a 1990s novel recently that used prostate cancer as a plot device and already knew a small amount of the unnecessary medical interventions that were more common at the time.  I was still a little surprised after looking up prostate cancer on wikipedia to find out that if you live long enough you will likely die with prostate cancer.  From wikipedia, "Only a minority of prostate cancer cases are ever diagnosed. Autopsies of men who died at various ages have shown cancer in the prostates of over 40% of men over age 50. Incidence rises with age, and nearly 70% of men autopsied at age 8089 had cancer in their prostates.[90]" -https://en.wikipedia.org/wiki/Prostate_cancer#Epidemiology
+I read a 1990s novel recently that used prostate cancer as a plot device and already knew a small amount of the unnecessary medical interventions that were more common at the time.  I was still a little surprised after looking up prostate cancer on wikipedia to find out that if you live long enough you will likely die with prostate cancer.  From wikipedia, "Only a minority of prostate cancer cases are ever diagnosed. Autopsies of men who died at various ages have shown cancer in the prostates of over 40% of men over age 50. Incidence rises with age, and nearly 70% of men autopsied at age 8089 had cancer in their prostates.[90]" -https://en.wikipedia.org/wiki/Prostate_cancer#Epidemiology
+Like (3)
+Reply
+Share
+Top
+Latest
+Discussions
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+
+undefined subscriptions will be displayed on your profile (edit)
+Skip for now
+For your security, we need to re-authenticate you.
+Click the link we sent to sasha.p.podolsky@gmail.com, orclick here to sign in.

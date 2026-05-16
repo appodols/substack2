@@ -1,0 +1,199 @@
+
+
+1
+Book meeting
+Book a meeting
+Subscribed
+Share
+Share
+Give a gift subscription
+Give a gift subscription
+In his excellent bookOn the Origin of Stories: Evolution, Cognition, and Fiction, professor of literature Brian Boyd discusses how evolutionary ideas shed light on what types of stories and plots we tend to find interesting.1
+In his excellent book
+, professor of literature Brian Boyd discusses how evolutionary ideas shed light on what types of stories and plots we tend to find interesting.
+1
+
+Boyd writes:
+Humans naturally pursue status with ferocity: we all relentlessly, if unconsciously, try to raise our own standing by impressing peers, and naturally, if unconsciously, evaluate others in terms of their standing.
+Humans naturally pursue status with ferocity: we all relentlessly, if unconsciously, try to raise our own standing by impressing peers, and naturally, if unconsciously, evaluate others in terms of their standing.
+Why would a professor of literature discuss status in a book about stories?
+The reason is that the characters and plots and themes that tend to hold our attention have to do with status.
+To be sure, there are many elements of stories that hold our attention and capture our imaginations. But status is certainly one of them.
+What is the purpose of stories? Why are they found in virtually every culture studied? Psychologists and anthropologists have listed several benefits.
+Stories impart useful knowledge. They entertain us. And they serve to promote social cohesion, unifying us under a common group identity.
+How do stories hold our attention? In most traditional narratives, this is done primarily through the status trajectory of a protagonist.
+Many of you are probably familiar with the heros journey. Joseph Campbell documented this idea at length in his landmark 1949 textThe Hero With A Thousand Faces.
+Many of you are probably familiar with the heros journey. Joseph Campbell documented this idea at length in his landmark 1949 text
+.
+Campbell outlined the core notion of a recurring story he recognized in myths and legends hed examined across time (e.g., in Arthurian tales, Greek mythology, indigenous folktales).
+Surface details differed, with stories of knights, gods, sorcerers, and so on depending on the time and culture.
+But Campbell noticed the same structural template.
+A hero, male or female, rich or poor, is shaken out of their everyday reality and must endure the process of change. At the beginning of the story, the heros existing knowledge and skills are insufficient. To find a solution, the hero must exit their familiar world and venture into the unknown. They then encounter trials that are foreign and bewildering. The hero then acquires new knowledge and skills to overcome each challenge. The hero is often required to do things they do not know how to do, or are reluctant to do, or are unsure they can do. Through this process, the hero undergoes a dramatic and sometimes painful personal transformation (symbolic or actual death and rebirth).
+The heros journey template tracks the journey of a protagonist.
+First, they are in the ordinary, familiar world. It is mundane and predictable. Then theres the call to adventure, something has intruded on the familiar world, and the protagonist is required to spring into action. But this is often followed by a refusal. The protagonist has doubts or anxieties or fears. But, eventually, external circumstances conspire to propel the protagonist to go on the journey. Along the way, the protagonist leaves the ordinary world, undergoes tests, meets mentors, wins over allies, and overcomes enemies. Things seem to be going well for the hero.
+This is followed by a descent into the final and most daunting test. Typically this is when all seems lost. Some story experts refer to this stage as  the dark night of the soul, or the protagonists darkest hour. There seems to be no way to overcome this final obstacle. Through death and resurrection, whether symbolic or otherwise, through learning new skills and triumphing over external enemies or vanquishing inner demons, the hero triumphs and seizes the reward. They then leave the world of the journey and return to the ordinary world with some kind of treasure or elixir to share with their community. This could be an actual material treasure, such as money or medicine, or it could be knowledge or useful information that improves their lives.
+Here's a simplified version of the heros journey from the author Christopher Booker, who did a Jungian-style analysis of stories in his 2004 bookThe Seven Basic Plots:
+Here's a simplified version of the heros journey from the author Christopher Booker, who did a Jungian-style analysis of stories in his 2004 book
+:
+Early in our lives, most of us became familiar with a story which ran something like this. Once upon a time there was a young hero or heroine, not yet embarked on adult life, living in lowly and very difficult circumstances. This humble little figure, almost certainly an orphan, was regarded as of little worth by most people around, and may even have been actively maltreated. But one day something happened to send our hero or heroine out into the world where they met with a series of adventures which eventually brought about a miraculous transformation in their fortunes. Emerging from the shadows of their wretched former state, they were raised to a position of dazzling splendor, winning the admiration of all who beheld them. The hero won the hand in marriage of a beautiful Princess; the heroine won the love of a handsome prince. They succeeded to rule over a kingdom. And from that day forth they lived happily ever after.
+Early in our lives, most of us became familiar with a story which ran something like this. Once upon a time there was a young hero or heroine, not yet embarked on adult life, living in lowly and very difficult circumstances. This humble little figure, almost certainly an orphan, was regarded as of little worth by most people around, and may even have been actively maltreated. But one day something happened to send our hero or heroine out into the world where they met with a series of adventures which eventually brought about a miraculous transformation in their fortunes. Emerging from the shadows of their wretched former state, they were raised to a position of dazzling splendor, winning the admiration of all who beheld them. The hero won the hand in marriage of a beautiful Princess; the heroine won the love of a handsome prince. They succeeded to rule over a kingdom. And from that day forth they lived happily ever after.
+This is a basic plot, where the protagonist starts from a low position and then ends on a high one.
+Interestingly enough, my ownforthcoming memoirTroubled: A Memoir of Foster Care, Family, and Social Classadheres to this template: I was born into poverty, lived in foster homes, squalor, and dysfunction, enlisted in the military, and finally, after plenty of setbacks, frustration, external obstacles, and self-defeating behavior, I managed to get degrees from Yale and Cambridge, and build a decent career for myself. I didnt intend to follow any kind of outline when I began writing. But according to Campbell and his intellectual descendants, archetypal stories naturally fall into the heros journey framework whether the author intends it or not.
+Interestingly enough, my own
+
+adheres to this template: I was born into poverty, lived in foster homes, squalor, and dysfunction, enlisted in the military, and finally, after plenty of setbacks, frustration, external obstacles, and self-defeating behavior, I managed to get degrees from Yale and Cambridge, and build a decent career for myself. I didnt intend to follow any kind of outline when I began writing. But according to Campbell and his intellectual descendants, archetypal stories naturally fall into the heros journey framework whether the author intends it or not.
+Joseph Campbell pioneered the heros journey template in the first half of the twentieth century.
+Since then, researchers have used sophisticated methods to apply sentiment analysis using big datasets. Oneanalysisof 112,000 plots from movies, books, and video games reported:
+Since then, researchers have used sophisticated methods to apply sentiment analysis using big datasets. One
+of 112,000 plots from movies, books, and video games reported:
+If we had to summarize the average story that humans tell, it would go something like Things get worse and worse until at the last minute they get better.
+This pattern of a low status character, through extraordinary effort and good fortune, earning high status is intuitively appealing. We identify with these protagonists. Many people tend to feel that they are relatively low in status, but secretly possess the skills and character of someone who deserves more.
+No matter our level of actual, objective privilege, people often feel beleaguered and engage in upward social comparisons and wonder to themselves, Why does that person have more status/respect/money/followers/etc. than me?
+We also seem to be predisposed to dislike cruel people in general. But we especially dont like high status people who are cruel. Interestingly, research has found that this is the most common flaw of story antagonists: They seek dominance at the expense of others or their existing power. So you often have a high-ranking cruel antagonist (e.g., a tyrannical boss) and a low-ranking morally kind protagonist (e.g., an ordinary employee). When the protagonist finally triumphs, the audience cheers.
+The psychoanalyst Bruno Bettelheim wrote a book calledThe Uses of Enchantmentin which he analyzed fairy tales. He claimed that the core challenge of the storyteller is to get the listener to sympathize with the protagonist. One narrative shortcut is to make the protagonist a child or a woman (both of whom people, regardless of gender, tend to sympathize with).
+The psychoanalyst Bruno Bettelheim wrote a book called
+in which he analyzed fairy tales. He claimed that the core challenge of the storyteller is to get the listener to sympathize with the protagonist. One narrative shortcut is to make the protagonist a child or a woman (both of whom people, regardless of gender, tend to sympathize with).
+More recently, Hollywood screenwriting consultant Blake Snyder wrote a book calledSave the Cat!in which he agrees with Bettelheim. Both of these individuals claimed that sympathy for the protagonist is paramount.
+More recently, Hollywood screenwriting consultant Blake Snyder wrote a book called
+in which he agrees with Bettelheim. Both of these individuals claimed that sympathy for the protagonist is paramount.
+There are two common way storytellers get audiences to sympathize with the protagonist of a story. The first is for the hero to do something good. Hence, save the cat. The other is to be the victim of some kind of misfortune. We naturally sympathize with people, especially innocent people, who are wrongfully mistreated. We also seem to confer natural moral authority to victims.
+A recentstudyhas proposed the virtuous victim effect. This study found that people attribute higher moral character to people who have been mistreated. For instance, they found that if someone has had their iPad stolen, people subsequently rate them to be more ethical than someone who did not. A strange finding, but the reason seems to be that if someone is wronged, people are prone to viewing that person as morally righteous in order to justify punishment to the person who transgressed them. For instance, if we discover that a victimized person is morally unscrupulous, we might exonerate the person who wronged them. Thus, there may be a desire to view the wronged party as ethical, with a reputation of moral innocence.
+A recent
+has proposed the virtuous victim effect. This study found that people attribute higher moral character to people who have been mistreated. For instance, they found that if someone has had their iPad stolen, people subsequently rate them to be more ethical than someone who did not. A strange finding, but the reason seems to be that if someone is wronged, people are prone to viewing that person as morally righteous in order to justify punishment to the person who transgressed them. For instance, if we discover that a victimized person is morally unscrupulous, we might exonerate the person who wronged them. Thus, there may be a desire to view the wronged party as ethical, with a reputation of moral innocence.
+I like this tagline for this Bruce Willis movieDeath Wish:
+I like this tagline for this Bruce Willis movie
+:
+THEY CAME FOR HIS FAMILY (low status)
+NOW HES COMING FOR THEM (high status)
+You often see these kinds of patterns play out in antihero dramas, where the protagonist is not actually a good person in the conventional sense.
+Walter White inBreaking Badbecomes an evil drug kingpin. But at the beginning, he is a schoolteacher struggling to make ends meet and pay his bills, you see him working at a car wash after class and some of his students see him and laugh at him. You literally see him in a physicallylowposition, scrubbing the tires of his students car.
+Walter White in
+Breaking Bad
+becomes an evil drug kingpin. But at the beginning, he is a schoolteacher struggling to make ends meet and pay his bills, you see him working at a car wash after class and some of his students see him and laugh at him. You literally see him in a physically
+position, scrubbing the tires of his students car.
+We naturally feel for the guy, and this leads us to be more open to going along for the ride when we see him finally break bad.
+Does this mean that we naturally always root for the underdog? Theres a famous quote from Wilt Chamberlain: Nobody roots for Goliath.
+Intuitively it makes sense. Theres been some interesting work on this.
+In onestudy, researchers presented people with different scenarios. In one scenario, people read about a large corporation competing against a small business. In another scenario, people read about a highly established and well-regarded artist against an up-and-comer in an art competition. When the researchers asked people to simply say who they would like to see prevail, people indeed favored the underdog. They wanted the small business and the up-and-coming artist to win.
+In one
+, researchers presented people with different scenarios. In one scenario, people read about a large corporation competing against a small business. In another scenario, people read about a highly established and well-regarded artist against an up-and-comer in an art competition. When the researchers asked people to simply say who they would like to see prevail, people indeed favored the underdog. They wanted the small business and the up-and-coming artist to win.
+But when people are asked to put some skin in the game and bet money on who would win, they usually favored the overdog.
+So an updated version of that Chamberlain quote might be, Nobody roots for Goliath, unless their interests are at stake.
+People also like to see active protagonists. We usually like protagonists who make things happen, rather than just have things happen to them.
+There was a fascinating book a few years ago in which the authors analyzed a bunch of plots and crunched a bunch of numbers and found that verbs like do, need, and want appeared twice as often in bestselling fictional novels compared with those that didnt make the bestseller list.
+Interestingly, dislike, suppose, and wish appear more often in non-bestsellers. Those terms have more to do with thinking and feeling and preferences rather than action. Compelling protagonists influence and shape the people and the world around them, rather than merely reacting to external events.
+There was a fascinatingpaperrecently authored by the anthropologist Manvir Singh. Singh describes what he terms the sympathetic plot. He observes that humans are predisposed to learn and cooperate and sympathize. And his idea is that heros journey type stories exploit these psychological mechanisms.
+There was a fascinating
+recently authored by the anthropologist Manvir Singh. Singh describes what he terms the sympathetic plot. He observes that humans are predisposed to learn and cooperate and sympathize. And his idea is that heros journey type stories exploit these psychological mechanisms.
+We want to learn how to overcome obstacles. Thats what protagonists do. We like stories where we learn how to triumph.
+We want to form social relationships with smart and ethical people. Protagonists are generally competent and communally oriented. They would usually make a good friend or social ally.
+Actually, this reminds me that several years ago, one of my more self-aware friends said, Id love to hang out with House [the fictional medical doctor], but House would probably not want to hang out with me.
+Anyway, we generally want to help good people succeed, and we sympathize with their setbacks. In classic narratives, heroes often suffer serious hardships and failures before eventually achieving their goals.
+Often, with fictional characters, especially those in long standing television shows or long novels or fictional books that span multiple volumes, people form what psychologists call parasocial relationships with them. Many people think about these characters as if they were real people in their lives, wondering about their motivations, their backstory. We try to figure out what they might do next, or reference them in our conversations with other people in our real lives, or gossip with our real-life friends about the characters in stories.
+Here's an excerpt from an essay Freud once wrote about creative writers:
+He understands how to work over his daydreams in such a way as to make them lose what is too personal in them and repels strangers, and to make it possible for others to share in the enjoyment of themhe has thus achieved through his phantasy what originally he had achieved only in his phantasyhonor, power and the love of women.
+He understands how to work over his daydreams in such a way as to make them lose what is too personal in them and repels strangers, and to make it possible for others to share in the enjoyment of themhe has thus achieved through his phantasy what originally he had achieved only in his phantasyhonor, power and the love of women.
+Freud suggested that if you tell people your dreams and daydreams, people respond with boredom or revulsion or, at best, polite acknowledgement. Generally, listening to peoples dreams is just not very interesting. Creative writers, though, take their stray thoughts, which are often preoccupied with social life and social status, and translate them into narratives. People then pay more attention to them. And through this process, the creative writer transforms what were boring daydreams about achieving status into actual status, honor, power, and the love of women.
+Was Freud right? More recent research suggests the answer is yes. Studies suggest that poets and artists who have been published or had their work exhibited had more sexual partners than those who produced as a hobby or not at all.
+Its important here to remember the proximate/ultimate distinction: The psychologist Daniel Nettlecautions us:
+Its important here to remember the proximate/ultimate distinction: The psychologist Daniel Nettle
+:
+The tendency to turn ones current preoccupations into imaginative writing have persisted because of sexual selection, not that mating is the preoccupation of those who write.
+The tendency to turn ones current preoccupations into imaginative writing have persisted because of sexual selection, not that mating is the preoccupation of those who write.
+In other words, the reasonwhywe produce creative art is not the same reason ashowcreativity evolved in the first place.
+In other words, the reason
+we produce creative art is not the same reason as
+creativity evolved in the first place.
+Stories are communicated by language, which in itself is a vehicle for status attainment.
+In a superbbooktitledWhy We Talk: The Evolutionary Origins of Status, the cognitive scientist Jean-Louis Dessalles asks a simple question: what is the purpose of language? One answer, of course, is that it communicates useful information. But if this is the case, why do we talk so much? Speaking is effortful and it would be wiser to just listen to useful information. Moreover, people have a deep desire to communicate, and most of the content of our language is small talk and idle chatter, conveying nothing particularly useful or interesting.
+In a superb
+titled
+, the cognitive scientist Jean-Louis Dessalles asks a simple question: what is the purpose of language? One answer, of course, is that it communicates useful information. But if this is the case, why do we talk so much? Speaking is effortful and it would be wiser to just listen to useful information. Moreover, people have a deep desire to communicate, and most of the content of our language is small talk and idle chatter, conveying nothing particularly useful or interesting.
+Moreover, if we communicate useful information to others, we could be giving them an advantage over us. If we learn something useful, why not just sit on it and use it for ourselves?
+Dessalles idea is that speakers compete to show off what they know. Listeners sit back and decide how much status to allocate based on how impressed they are with what the speaker knows. Essentially, listeners assess the quality of the content of information and then confer prestige on the speaker.
+Again, most language and communication is composed of small talk and generally unimpressive information. But the cost of speaking is relatively low and the upside of receiving status is potentially very high. You burn few calories speaking, but the potential upside of saying something that could win you esteem is very high.
+Relatedly, the evolutionary psychologist Robin Dunbar has suggested that small talk is the human equivalent of primate grooming. In chimpanzee communities, apes will groom one another, but in fact most grooming is not done for hygiene purposes. Most of it is done to form social bonds and create alliances and test how the apes feel about one another.
+Humans do the same thing with idle chatter. Its a way to test where our relationship stands with one another, gauge how the other person feels about us, and so on.
+These two ideas suggest that people speak to impress potential romantic partners and social allies, and also to maintain their existing social relationships.
+Public speaking can arouse substantial anxiety and dread in people. The reason is that in the ancestral environment, being the sole person to speak in your community meant that you thought very highly of yourself. Your reputation was at stake, and if you made an error, literally every single person you have ever known your whole life was right there to witness it. This is why even today, public speaking can elicit intense negative emotions. Some research suggests that people perform worse in public events when their loved ones are in the audience, and this is likely related to long-term reputation concerns.
+The Yerkes-Dodson law is interestingthe basic finding is that there is an optimal level of arousal or stress for public speaking. If you are too low in stress, youll come across as boring or dull. If youre too high in stress, youll also perform poorly. But a moderate amount of stress can actually improve your performance.
+While the heros journey appears to be a widely used template, there issome debateamong philosophers, psychologists, and literary critics about whether people naturally view their own lives as a story. My view is that most people probably dont.
+While the heros journey appears to be a widely used template, there is
+among philosophers, psychologists, and literary critics about whether people naturally view their own lives as a story. My view is that most people probably dont.
+People naturally seem to make sense of the world through stories and remember information better if it comes in the form of a story. However, very few people think of their own lives in this way.
+Interestingly, though, there might be benefits to doing so.
+Ill close by briefly summarizing a new study from 2023titledSeeing Your Life Story as a Heros Journey Increases Meaning in Life.
+Ill close by briefly summarizing a new study from 2023
+Seeing Your Life Story as a Heros Journey Increases Meaning in Life.
+The researchers condensed the steps of Joseph Campbells template into seven elements: a lead protagonist, a dramatic change of circumstances, a quest, a challenge, allies, a personal transformation, and a resulting legacy.
+Across four studies, they collected life stories from more than 1,200 participants. The participants also completed surveys regarding their sense of meaning in life, amount of life satisfaction, and their levels of negative emotion.
+The researchers then examined the participants life stories for the condensed elements of the heros journey. They found that people who reported more of these elements in their lives reported more meaning in life, more flourishing, and less depression. These individuals who scored highly on seeing their lives as a heros journey reported a clearer sense of themselves, had more strong goals, and more good friends relative to the average. There were no sex differences in the likelihood of seeing life as a heros journey.
+The researchers then asked other participants to retell their life story using the template of the heros journey. Participants who connected the events of their lives into a coherent story following the template subsequently viewed their lives as more meaningful and reported higher levels of wellbeing and personal resilience.
+This is just one paper, hot off the press, but the results are suggestive. They echo earlierresearchfrom the psychologist Dan McAdams, who identified regularities in the life stories told by generative U.S. adults (people concerned with helping others and promoting the well-being of future generations). Such people tend to emphasize the themes of suffering, redemption, and personal destiny, not unlike the heros journey.
+This is just one paper, hot off the press, but the results are suggestive. They echo earlier
+from the psychologist Dan McAdams, who identified regularities in the life stories told by generative U.S. adults (people concerned with helping others and promoting the well-being of future generations). Such people tend to emphasize the themes of suffering, redemption, and personal destiny, not unlike the heros journey.
+To receive new posts, access more than100 premium archived posts, and support my work, consider becoming a free or paid subscriber.
+Subscribed
+This is the fifth transcript in this series of lectures I delivered earlier this year in Miami. Links for thefirst,second,thirdandfourthlectures.
+This is the fifth transcript in this series of lectures I delivered earlier this year in Miami. Links for the
+,
+,
+and
+lectures.
+Comments
+Restacks
+Raphi
+Raphi
+Raphi
+Raphi
+Raphi
+Nov 16, 2023
+This is why Luke Skywalker is loved as a character : George Lucas was inspired by Campbell's "Hero with a thousand faces" to craft Luke's journey. On the other, Rey embodies all the clichs about the "Mary-Sue" : already knows everything, never needs helps or mentors, is liked by all other characters...
+This is why Luke Skywalker is loved as a character : George Lucas was inspired by Campbell's "Hero with a thousand faces" to craft Luke's journey. On the other, Rey embodies all the clichs about the "Mary-Sue" : already knows everything, never needs helps or mentors, is liked by all other characters...
+In the end she even "steals" the name Skywalker, as if taking a name was sufficient to claim the heritage of a beloved character.
+In the end she even "steals" the name Skywalker, as if taking a name was sufficient to claim the heritage of a beloved character.
+(As you might have guessed, people, I *hate* the new trilogy.)
+(As you might have guessed, people, I *hate* the new trilogy.)
+Like (9)
+Reply
+Share
+EO Wilson Devotee
+EO Wilson Devotee
+EOs Newsletter
+EOs Newsletter
+EOs Newsletter
+Nov 16, 2023
+"...but the reason seems to be that if someone is wronged, people are prone to viewing that person as morally righteous in order to justify punishment to the person who transgressed them.."  This particular feature of human nature is extremely dangerous because it is the one most often hijacked noaways by many/almost every fringe group at the expense of naive compassionistas who fall for the ruse, act (or vote) accordingly, and thus, weaken our longstanding moral order.  Why is it so very difficult for otherwise perceptive people to stop valorizing victimhood simply for its own sake?  As cruel as it sounds, it looks to me like South Asian cultures are superior in this regard:  Be compassionate to your immediate family or others intimately known to you.  DO NOT outsource the provision of compassion to the government...that is always and forever a formula for corruption and boondoggles.
+"...but the reason seems to be that if someone is wronged, people are prone to viewing that person as morally righteous in order to justify punishment to the person who transgressed them.."  This particular feature of human nature is extremely dangerous because it is the one most often hijacked noaways by many/almost every fringe group at the expense of naive compassionistas who fall for the ruse, act (or vote) accordingly, and thus, weaken our longstanding moral order.  Why is it so very difficult for otherwise perceptive people to stop valorizing victimhood simply for its own sake?  As cruel as it sounds, it looks to me like South Asian cultures are superior in this regard:  Be compassionate to your immediate family or others intimately known to you.  DO NOT outsource the provision of compassion to the government...that is always and forever a formula for corruption and boondoggles.
+Like (7)
+Reply
+Share
+Top
+Latest
+Discussions
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+Rob Henderson
+
+
+undefined subscriptions will be displayed on your profile (edit)
+Skip for now
+For your security, we need to re-authenticate you.
+Click the link we sent to sasha.p.podolsky@gmail.com, orclick here to sign in.
